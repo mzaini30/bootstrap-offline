@@ -1,10 +1,4 @@
-# Aplikasi Android Bootstrap Offline
-
-Ini adalah tutorial Bootstrap yang bisa diakses secara offline. Makanya, bentuknya adalah aplikasi Android.
-
-## Compile ke aplikasi Android
-
-Menggunakan [mzaini30/andro](https://github.com/mzaini30/andro)
+# Bootstrap Offline
 
 ## Support Me
 
