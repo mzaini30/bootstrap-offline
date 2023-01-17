@@ -10,3 +10,6 @@
 - Forms
   - [Form Control](./forms/form-control.md)
   - [Select](./forms/select.md)
+  - [Checks and Radios](./forms/checks-radios.md)
+  - [Range](./forms/range.md)
+  - [Input Group](./forms/input-group.md)
