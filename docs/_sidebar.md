@@ -13,3 +13,10 @@
   - [Checks and Radios](./forms/checks-radios.md)
   - [Range](./forms/range.md)
   - [Input Group](./forms/input-group.md)
+  - [Floating Labels](./forms/floating-labels.md)
+  - [Layout](./forms/layout.md)
+  - [Validation](./forms/validation.md)
+- Components
+  - [Accordion](./components/accordion.md)
+  - [Alerts](./components/alerts.md)
+  - [Badges](./components/badges.md)
