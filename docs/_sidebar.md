@@ -20,3 +20,5 @@
   - [Accordion](./components/accordion.md)
   - [Alerts](./components/alerts.md)
   - [Badges](./components/badges.md)
+  - [Breadcrumb](./components/breadcrumb.md)
+  - [Buttons](./components/buttons.md)
